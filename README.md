@@ -1,2 +1,2 @@
 # seekerposter
-This is an seeker poster site project.
+This is a seeker poster site project.
